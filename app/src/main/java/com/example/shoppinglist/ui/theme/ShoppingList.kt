@@ -1,4 +1,4 @@
-kage com.example.shoppinglist.ui.theme
+package com.example.shoppinglist.ui.theme
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
