@@ -1,6 +1,5 @@
 package com.example.shoppinglist.ui.theme
 
-import android.content.SharedPreferences.Editor
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
