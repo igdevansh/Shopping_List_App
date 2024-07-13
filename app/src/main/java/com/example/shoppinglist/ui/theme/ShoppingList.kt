@@ -1,4 +1,4 @@
-package com.example.shoppinglist.ui.theme
+kage com.example.shoppinglist.ui.theme
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
@@ -307,33 +307,3 @@ data class Shoppingitems(
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//
-//@Preview(showBackground = true)
-//@Composable
-//fun editorPreview(){
-//    editor(item = Shoppingitems(1,"Apples",2,"Dozen"), onEditComplete = ("Banana",25) -> Unit)
-//}
